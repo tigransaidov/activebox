@@ -99,7 +99,7 @@ p {
     height: 750px;
     padding-top: 100px;
 
-    background-image: url("img/intro-bg.jpg");
+    background-image: url("../img/intro-bg.jpg");
     background-color: #333751;
     background-repeat: no-repeat;
     background-position: center;
